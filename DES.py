@@ -1,4 +1,3 @@
-from turtle import st
 from Utils import *
 import Keys
 import Feistel
